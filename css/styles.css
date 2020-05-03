@@ -1,0 +1,24 @@
+body{
+    background-color:#ADDBEB;
+    font-family: 'Arial';
+}
+
+.organisasi{
+    border-top: 2px dashed black;
+    font-family: "Apple Chancery", cursive;
+    color: #7C304C;
+    background-color:#c8eae9;
+}
+
+.pendidikan{
+    font-family: 'Verdana',sans-serif;
+    color:#F07041 ;
+    background-color: #FEF7EC;    
+}
+
+#matkul{
+    font-family: 'Lucida Console', monospace;
+    color: #fafafa;
+    background-color: #fdb4bf;
+}
+
